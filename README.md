@@ -1,6 +1,7 @@
 - Hi, I’m @hamshadShaikh
 - I’m interested in a lot of things.
-- I’m currently learning/practing Java Language.
+- I’m a Java Language Programmer currently
+- And I have started learning Python too.
 <!--- - I want to collaborate for learning how other people codes and uses algorithms.
 - So, you can contact me on discord Mega Hiro#3596 where I rarely come online. --->
 
